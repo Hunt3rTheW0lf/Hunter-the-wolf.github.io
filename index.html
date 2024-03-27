@@ -3,7 +3,31 @@
     <link rel="icon" href="Hunter page icon.png">
     <link rel="stylesheet" type="text/css" href="Style.css"
   </head>
-  <body>
-    
+  <body onload="notification">
+    <script>
+      (async () => {
+        const showNotification = () => {
+          const notification = new Notification('A note from Hunter', {
+            body: 'Oh, hewo user, im glad you stopped by here, unfortunately this place is still highly under development so theres nothing available yet, you can stay here though if you wish
+            icon: ''
+        });
+      }     
+       
+//displays an error when permission is denied asking the user to turn it on
+       const showError = () => {
+        const error = document.querySelector('.error');
+        error.style.display = 'block';
+        error.textContent 'please turn this on, you will only receive a notification when coming to this site';
+      }
+
+      let granted = false;
+      if (notification.permission === 'granted'){
+        else if (notification.permission !== 'denied'){
+        let permission = await notification.requestPermission();
+        granted = permission === 'granted' ? true : false;
+      }
+
+      granted ? showNotification : showError;
+    </script>
   </body>
 </html>
