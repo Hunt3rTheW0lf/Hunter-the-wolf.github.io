@@ -3,4 +3,5 @@ body{
 }
 .top_banner{
   background-image: url("night_time_snowfall_scene.jpeg")
+  height: 50px;
 }
