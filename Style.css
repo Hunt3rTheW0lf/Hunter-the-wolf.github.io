@@ -5,5 +5,5 @@ body{
   height: 70px;
 }
 .top_banner img{
-  object-fit: contain;
+  object-fit: cover;
 }
