@@ -2,6 +2,8 @@ body{
   background-color: #040729;
 }
 .top_banner{
-  background-image: url("night_time_snowfall_scene.jpeg");
-  height: 50px;
+  height: 70px;
+}
+.top_banner img{
+  object-fit: contain;
 }
