@@ -7,3 +7,11 @@ body{
 .top_banner img{
   object-fit: cover;
 }
+
+.missing_Page_Icon{
+  margin: auto;
+}
+
+.missing_Page_Icon img{
+  object-fit: cover;
+}
