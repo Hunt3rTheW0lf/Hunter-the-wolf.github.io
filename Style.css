@@ -11,6 +11,7 @@ body{
 }
 
 .missing_Page_Icon{
+  position: absolute;
   top: 50%;
   left: 70%;
   margin-top: -50px;
