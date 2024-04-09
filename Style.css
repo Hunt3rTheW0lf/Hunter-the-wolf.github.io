@@ -9,8 +9,11 @@ body{
 }
 
 .missing_Page_Icon{
+  position: absolute;
   top: 50%;
-  margin: auto;
+  left: 50%;
+  margin-top: -50px;
+  margin-left: -50px;: 
 }
 
 .missing_Page_Icon img{
