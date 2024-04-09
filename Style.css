@@ -24,8 +24,8 @@ body{
 
 .page-Text{
   position: absolute;
-  top: 60%;
-  left: 70%;
+  top: 50%;
+  left: 30%;
   margin-top: -70px;
   margin-left: -70px;
 }
