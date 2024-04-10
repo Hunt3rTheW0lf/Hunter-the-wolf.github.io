@@ -12,7 +12,7 @@ body{
 
 .missing_Page_Icon{
   position: relative;
-  top: 50%;
+  top: 30%;
   left: 50%;
   margin-top: -50px;
   margin-left: -50px;
@@ -24,7 +24,7 @@ body{
 
 .page-Text{
   position: relative;
-  top: 50%;
+  top: 40%;
   left: 50%;
   margin-top: -50px;
   margin-left: -50px;
