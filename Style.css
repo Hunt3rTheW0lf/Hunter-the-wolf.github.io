@@ -9,6 +9,7 @@ body{
 .top_banner img{
   object-fit: cover;
   filter: drop-shadow(black 1rem 1rem 5px);
+  filter: blur(4px);
 }
 
 .missing_Page_Icon{
@@ -35,6 +36,7 @@ body{
 .page-Text p{
   font-size: 50px;
   color: white;
+  filter: drop-shadow(black 1rem 1rem 5px);
 }
 
  
