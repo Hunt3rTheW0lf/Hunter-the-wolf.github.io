@@ -6,8 +6,8 @@ body{
 
 .false_reality{
   position: relative;
-  top: 30%;
-  left: 50%;
+  top: 30px;
+  left: 50px;
   margin-top: 50px;
   margin-left: 50px;
 }
@@ -18,8 +18,8 @@ body{
 
 .page-Text{
   position: relative;
-  top: 40%;
-  left: 50%;
+  top: 40px;
+  left: 50px;
   margin-top: 50px;
   margin-left: 50px;
 }
