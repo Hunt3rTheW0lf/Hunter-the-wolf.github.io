@@ -3,12 +3,6 @@
 body{
   background-color: #040729;
 }
-.top_banner{
-  height: 70px;
-}
-.top_banner img{
-  object-fit: cover;
-}
 
 .missing_Page_Icon{
   position: relative;
