@@ -4,12 +4,6 @@ body{
   background-color: #040729;
 }
 
-.header img{
-  object-fit: cover;
-  filter: drop-shadow(black 1rem 1rem 5px);
-  filter: blur(6px);
-}
-
 .missing_Page_Icon{
   position: relative;
   top: 30px;
@@ -41,7 +35,7 @@ body{
 .header {
   overflow: hidden;
   background-image: url("pictures/Night time snowfall cropped.png");
-  padding: 50px 50px;
+  padding: 20px 10px;
 }
 
 /* Style the header links */
