@@ -42,7 +42,7 @@ body{
 .header {
   overflow: hidden;
   background-image: url("pictures/Night time snowfall cropped.png");
-  padding: 40px 10px;
+  padding: 50% 10px;
 }
 
 /* Style the header links */
