@@ -1,0 +1,39 @@
+
+
+body{
+  background-color: #040729;
+}
+.top_banner{
+  height: 70px;
+}
+.top_banner img{
+  object-fit: cover;
+}
+
+.missing_Page_Icon{
+  position: relative;
+  top: 30%;
+  left: 50%;
+  margin-top: -50px;
+  margin-left: -50px;
+}
+
+.missing_Page_Icon img{
+  object-fit: cover;
+}
+
+.page-Text{
+  position: relative;
+  top: 40%;
+  left: 50%;
+  margin-top: -50px;
+  margin-left: -50px;
+  margin-right: 150px;
+}
+
+.page-Text p{
+  font-size: 50px;
+  color: white;
+}
+
+ 
