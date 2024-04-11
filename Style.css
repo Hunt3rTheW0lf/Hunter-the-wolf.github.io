@@ -21,7 +21,6 @@ body{
 
 .missing_Page_Icon img{
   object-fit: cover;
-  filter: drop-shadow(black 1rem 1rem 5px);
 }
 
 .page-Text{
