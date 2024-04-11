@@ -60,7 +60,7 @@ body{
 /* Style the active/current link*/
 .header a.active {
   background-color: #0fc;
-  color: white;
+  color: black;
 }
 
 /* Float the link section to the right */
