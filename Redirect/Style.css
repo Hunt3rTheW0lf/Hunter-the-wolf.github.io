@@ -1,10 +1,10 @@
 
 
 body{
-  background-color: #040729;
+  background-color: black;
 }
 
-.missing_Page_Icon{
+.false_reality{
   position: relative;
   top: 30%;
   left: 50%;
@@ -12,7 +12,7 @@ body{
   margin-left: -50px;
 }
 
-.missing_Page_Icon img{
+.false_reality img{
   object-fit: cover;
 }
 
