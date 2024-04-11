@@ -7,7 +7,7 @@ body{
 header img{
   object-fit: cover;
   filter: drop-shadow(black 1rem 1rem 5px);
-  filter: blur(4px);
+  filter: blur(6px);
 }
 
 .missing_Page_Icon{
