@@ -8,6 +8,7 @@ body{
 }
 .top_banner img{
   object-fit: cover;
+  filter: drop-shadow(black 1rem 1rem 5px);
 }
 
 .missing_Page_Icon{
