@@ -3,10 +3,8 @@
 body{
   background-color: #040729;
 }
-.top_banner{
-  height: 70px;
-}
-.top_banner img{
+
+header img{
   object-fit: cover;
   filter: drop-shadow(black 1rem 1rem 5px);
   filter: blur(4px);
@@ -39,4 +37,3 @@ body{
   filter: drop-shadow(black 1rem 1rem 5px);
 }
 
- 
