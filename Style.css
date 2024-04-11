@@ -12,8 +12,8 @@ body{
 
 .missing_Page_Icon{
   position: relative;
-  top: 30%;
-  left: 50%;
+  top: 30px;
+  left: 50px;
   margin-top: 50%;
   margin-left: -50%;
 }
@@ -41,7 +41,7 @@ body{
 .header {
   overflow: hidden;
   background-image: url("pictures/Night time snowfall cropped.png");
-  padding: 50% 10px;
+  padding: 50px 50%;
 }
 
 /* Style the header links */
