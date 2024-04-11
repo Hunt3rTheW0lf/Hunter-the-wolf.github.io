@@ -4,7 +4,7 @@ body{
   background-color: #040729;
 }
 
-header img{
+.header img{
   object-fit: cover;
   filter: drop-shadow(black 1rem 1rem 5px);
   filter: blur(6px);
@@ -42,7 +42,7 @@ header img{
 .header {
   overflow: hidden;
   background-image: url("pictures/Night time snowfall cropped.png");
-  padding: 20px 10px;
+  padding: 40px 10px;
 }
 
 /* Style the header links */
