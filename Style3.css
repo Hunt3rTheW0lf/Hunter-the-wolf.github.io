@@ -30,6 +30,20 @@ body{
   filter: drop-shadow(black 1rem 1rem 5px);
 }
 
+.outerBox {
+  border-radius: 25px;
+  border: 5px solid #008cff;
+  background: #40a9ff;
+  padding: ;
+}
+
+.imageIcon{
+  
+}
+
+.socialInfoText {
+
+}
 
 /* Style the header with a grey background and some padding */
 .header {
