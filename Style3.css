@@ -51,9 +51,8 @@ body{
   border: 10px solid #0008ff;
   background-image: url("pictures/Hunter And Cobalt.png");
   background-size: contain;
-  align: contain;
-  height: 200px;
-  width: 200px;
+  height: 175px;
+  width: 175px;
   overflow: hidden;
 }
 
