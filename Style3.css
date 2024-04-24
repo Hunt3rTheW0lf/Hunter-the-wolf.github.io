@@ -45,7 +45,8 @@ body{
 }
 
 .imageIcon img{
-  object-fit: scale-down;
+  object-fit: contain;
+  overflow: hidden;
 }
 
 .socialInfoText {
