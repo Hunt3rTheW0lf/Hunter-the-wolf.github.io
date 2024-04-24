@@ -42,9 +42,9 @@ body{
   border-radius: 100%;
   border: 10px solid black;
   background-image: url("pictures/Hunter And Cobalt.png");
+  background-size: contain;
   height: 100px;
   width: 100px;
-  object-fit: contain;
   overflow: hidden;
 }
 
