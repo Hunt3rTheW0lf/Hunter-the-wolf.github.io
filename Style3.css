@@ -40,9 +40,11 @@ body{
 
 .imageIcon{
   border-radius: 100%;
+  border: 10px solid black;
   height: 100px;
   width: 100px;
   object-fit: cover;
+  overflow: hidden;
 }
 
 .imageIcon img{
