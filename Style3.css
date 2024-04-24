@@ -39,7 +39,6 @@ body{
   text-align: right;
   color: white;
   text-decoration: none;
-  font-size: 15px;
 }
 
 .outerBox:hover {
@@ -51,8 +50,8 @@ body{
   border: 10px solid #0008ff;
   background-image: url("pictures/Hunter And Cobalt.png");
   background-size: contain;
-  height: 175px;
-  width: 175px;
+  height: 200px;
+  width: 200px;
   overflow: hidden;
 }
 
