@@ -50,6 +50,7 @@ body{
   border-radius: 100%;
   border: 10px solid #0008ff;
   background-image: url("pictures/Hunter And Cobalt.png");
+  background-size: contain;
   align: contain;
   height: 200px;
   width: 200px;
