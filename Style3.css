@@ -36,6 +36,8 @@ body{
   background: #40a9ff;
   padding: 30px;
   height: 200px;
+  align: center;
+  color: black;
 }
 
 .imageIcon{
@@ -46,10 +48,6 @@ body{
   height: 200px;
   width: 200px;
   overflow: hidden;
-}
-
-.socialInfoText {
-
 }
 
 /* Style the header with a grey background and some padding */
