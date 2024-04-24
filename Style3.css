@@ -38,6 +38,11 @@ body{
   height: 200px;
   align: center;
   color: black;
+  text-decoration: none;
+}
+
+.outerBox:hover {
+  filter:drop-shadow(black 0.5rem 0.5rem 7px)
 }
 
 .imageIcon{
