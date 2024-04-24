@@ -43,6 +43,7 @@ body{
   height: 100px;
   width: 100px;
   background: url("pictures/Hunter And Cobalt.png");
+  object-fit: scale-down;
 }
 
 .socialInfoText {
