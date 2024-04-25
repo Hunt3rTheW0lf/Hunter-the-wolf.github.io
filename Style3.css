@@ -11,11 +11,10 @@ body{
   left: 50px;
   margin-top: -50px;
   margin-left: -50px;
-  align: contain;
 }
 
 .missing_Page_Icon img{
-  object-fit: cover;
+  object-fit: contain;
 }
 
 .page-Text{
