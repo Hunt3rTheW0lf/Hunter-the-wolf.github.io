@@ -35,10 +35,11 @@ body{
   border: 5px solid #008cff;
   background: #40a9ff;
   padding: 30px;
-  height: 200px;
+  height: 250px;
   text-align: right;
   color: white;
   text-decoration: none;
+  font-size: 25px;
 }
 
 .outerBox:hover {
