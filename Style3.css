@@ -31,6 +31,7 @@ body{
 }
 
 .social {
+  font-size: 25px;
   text-decoration: none;
   text-shadow: 0 1px 4px blue, 0 1px 8px  #009;
 }
@@ -123,7 +124,6 @@ body{
   }
   .outerBox {
     height: 200px;
-    font-size: 10px;
     text-align: right;
   }
   .Twitter {
@@ -133,5 +133,8 @@ body{
   .Youtube {
     height: 100px;
     width: 100px;
+  }
+  .social {
+    font-size: 15px;
   }
 }
