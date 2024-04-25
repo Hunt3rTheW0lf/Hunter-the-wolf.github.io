@@ -54,6 +54,7 @@ body{
   height: 200px;
   width: 200px;
   overflow: hidden;
+  align: cover;
 }
 
 /* Style the header with a grey background and some padding */
