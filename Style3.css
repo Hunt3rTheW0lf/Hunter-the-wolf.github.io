@@ -93,8 +93,8 @@ body{
 
 /* Change the background color on mouse-over */
 .header a:hover {
-  background-color: red;
-  color: black;
+  background-color: #0080ff;
+  color: white;
 }
 
 /* Style the active/current link*/
