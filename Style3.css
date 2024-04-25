@@ -4,7 +4,9 @@ body{
   background-color: #040729;
 }
 
-.missing_Page_Icon{
+.missing_Page_Icon {
+  height: 100%;
+  width: 100%;
   position: relative;
   top: 30px;
   left: 50px;
