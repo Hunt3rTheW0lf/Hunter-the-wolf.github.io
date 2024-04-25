@@ -4,16 +4,11 @@ body{
   background-color: #040729;
 }
 
-.missing_Page_Icon{
-  position: relative;
-  top: 30px;
-  left: 50px;
-  margin-top: -50px;
-  margin-left: -50px;
-}
-
-.missing_Page_Icon img{
-  object-fit: cover;
+.missing_Page_Icon {
+  background-image: url("pictures/Missing Page-Error Page Animated Icon.gif");
+  background-size: contain;
+  height: 100%;
+  width: 100%;
 }
 
 .page-Text{
@@ -103,5 +98,14 @@ body{
   }
   .header-right {
     float: none;
+  }
+
+  .missing_Page_Icon {
+    height: 400px;
+    width: 400px;
+  }
+
+  .page-Text p {
+    font-size: 15px;
   }
 }
