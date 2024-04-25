@@ -46,7 +46,18 @@ body{
   filter:drop-shadow(black 0.5rem 0.5rem 7px)
 }
 
-.imageIcon{
+.Twitter{
+  border-radius: 100%;
+  border: 10px solid #0008ff;
+  background-image: url("pictures/Hunter And Cobalt.png");
+  background-size: contain;
+  height: 150px;
+  width: 150px;
+  overflow: hidden;
+  align: cover;
+}
+
+.Youtube{
   border-radius: 100%;
   border: 10px solid #0008ff;
   background-image: url("pictures/Hunter And Cobalt.png");
@@ -109,7 +120,11 @@ body{
     font-size: 10px;
     text-align: right;
   }
-  .imageIcon {
+  .Twitter {
+    height: 100px;
+    width: 100px;
+  }
+  .Youtube {
     height: 100px;
     width: 100px;
   }
