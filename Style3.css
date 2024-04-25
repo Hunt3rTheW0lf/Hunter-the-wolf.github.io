@@ -6,15 +6,12 @@ body{
 }
 
 .missing_Page_Icon {
+  background-image: url("pictures/Missing Page-Error Page Animated Icon.gif");
   position: relative;
   top: 30px;
   left: 50px;
   margin-top: -50px;
   margin-left: -50px;
-}
-
-.missing_Page_Icon img{
-  object-fit: contain;
 }
 
 .page-Text{
