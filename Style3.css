@@ -7,6 +7,7 @@ body{
 
 .missing_Page_Icon {
   background-image: url("pictures/Missing Page-Error Page Animated Icon.gif");
+  background-size: contain;
   position: relative;
   top: 30px;
   left: 50px;
