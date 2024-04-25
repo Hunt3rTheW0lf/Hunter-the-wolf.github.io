@@ -105,6 +105,7 @@ body{
     float: none;
   }
   .outerBox {
+    font-size: 10px;
     text-align: right;
   }
   .imageIcon {
