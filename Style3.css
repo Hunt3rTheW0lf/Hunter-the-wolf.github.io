@@ -30,6 +30,11 @@ body{
   filter: drop-shadow(black 1rem 1rem 5px);
 }
 
+a {
+  text-decoration: none;
+  text-shadow: 2px 2px 8px white;
+}
+
 .outerBox {
   border-radius: 25px;
   border: 5px solid #008cff;
@@ -55,6 +60,7 @@ body{
   width: 150px;
   overflow: hidden;
   align: cover;
+  
 }
 
 .Youtube{
