@@ -71,6 +71,17 @@ body{
   align: cover;
 }
 
+.Reddit{
+  border-radius: 100%;
+  border: 10px solid #0008ff;
+  background-image: url("pictures/Reddit Icon.png");
+  background-size: contain;
+  height: 150px;
+  width: 150px;
+  overflow: hidden;
+  align: cover;
+}
+
 /* Style the header with a grey background and some padding */
 .header {
   overflow: hidden;
