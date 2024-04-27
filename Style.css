@@ -26,6 +26,21 @@ body{
   font-size: 15px;
 }
 
+.coloritem1 {
+  color: #0fc;
+  text-shadow: 0px 1px 4px #00cca3, 0px 1px 8px #008066
+}
+
+.coloritem2 {
+  color: #00b38f;
+  text-shadow: 0px 1px 4px #008066, 0px 1px 8px #004d3d
+}
+
+.coloritem3 {
+  color: #3cf;
+  text-shadow: 0px 1px 4px #00ace6, 0px 1px 8px #007399
+}
+
 .missing_Page_Icon {
   background-image: url("pictures/Missing Page-Error Page Animated Icon.gif");
   background-size: contain;
