@@ -153,6 +153,8 @@ body{
 
   .warm-Welcome p {
     font-size: 15px;
-    
+  }
+  .addontoitemaboveme {
+    font-size: 10px;
   }
 }
