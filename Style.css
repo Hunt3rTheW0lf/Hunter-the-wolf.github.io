@@ -4,6 +4,28 @@ body{
   background-color: #040729;
 }
 
+.warm-Welcome {
+  width: 1000px;
+  height: 950px;
+  background-color: #066;
+}
+
+.Warm-Welcome p {
+  font-size: 20px;
+  color: #fff;
+  text-shadow: 0px 1px 6px #fff, 0px 1px 12px #a3a3a3;
+}
+
+.warm-Welcome p h1 {
+  text-align: center;
+  color: #fff;
+  text-shadow: 0px 1px 6px #fff, 0px 1px 12px #6cf;
+}
+
+.addontoitemaboveme {
+  font-size: 15px;
+}
+
 .missing_Page_Icon {
   background-image: url("pictures/Missing Page-Error Page Animated Icon.gif");
   background-size: contain;
@@ -107,5 +129,15 @@ body{
 
   .page-Text p {
     font-size: 15px;
+  }
+
+  .warm-Welcome {
+    width: 500px;
+    height: 950px;
+  }
+
+  .warm-Welcome p {
+    font-size: 15px;
+    
   }
 }
