@@ -160,6 +160,7 @@ body{
     font-size: 10px;
   }
   .Welcome {
+    background-size: contain;
     height: 35px;
     width: 350px;
   }
