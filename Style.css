@@ -17,8 +17,8 @@ body{
 }
 
 .Welcome {
-  background-image: url("pictures/Welcome User.gif");
-  background-size: contain;
+  /*background-image: url("pictures/Welcome User.gif");
+  background-size: contain;*/
   height: 102px;
   width: 428px;
   allign: center;
