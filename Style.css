@@ -19,8 +19,8 @@ body{
 .Welcome {
   background-image: url("pictures/Welcome User.gif");
   background-size: contain;
-  height: 72px;
-  width: 398px;
+  height: 144px;
+  width: 796px;
   allign: center;
 }
 
@@ -160,7 +160,7 @@ body{
     font-size: 10px;
   }
   .Welcome {
-    height: 36px;
-    width: 199px;
+    height: 72px;
+    width: 398px;
   }
 }
