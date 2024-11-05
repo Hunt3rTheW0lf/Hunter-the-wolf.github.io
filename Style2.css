@@ -11,7 +11,14 @@ body{
   width: 720px;
 }
 
-.button {
+.incrediboxmod:hover {opacity: 1}
+
+.Incrediboxupdatelog:hover {opacity: 1}
+
+.incrediboxmod {
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
   background-color: #04AA6D;
   border: none;
   color: white;
@@ -25,18 +32,21 @@ body{
   text-decoration: none;
 }
 
-.button:hover {opacity: 1}
-
-.incrediboxmod {
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-}
-
 .Incrediboxupdatelog {
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
+  background-color: #04AA6D;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  margin: 4px 2px;
+  background-color: #04AA6D;
+  opacity: 0.6;
+  transition: 0.3s;
+  display: inline-block;
+  text-decoration: none;
 }
 
 .page-Text{
