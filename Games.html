@@ -6,6 +6,11 @@
     <link rel="stylesheet" type="text/css" href="Style2.css">
   </head>
   <body>
+    <script>
+      function missinggamefile() {
+        alert("The file you've requested is either missing, or being worked on. please try again later");
+      }
+    </script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <div class="header">
       <div class="header-right">
@@ -23,8 +28,12 @@
     <br>
     <br>
     <br>
-    <a href="https://drive.google.com/file/d/1I1hY5knaFtS26p70xywC0EXFbTSaXOGG/view?usp=drivesdk">
-      <button class="incrediboxmod">Download "Incredibox: Fur Friends"</button>
-    </a>
+    <button class="incrediboxmod" onclick="missinggamefile()">Download "Incredibox: Fur Friends"</button>
   </body>
 </html>
+
+<!--
+<a href="https://drive.google.com/file/d/1I1hY5knaFtS26p70xywC0EXFbTSaXOGG/view?usp=drivesdk">
+      <button class="incrediboxmod">Download "Incredibox: Fur Friends"</button>
+</a>
+-->
